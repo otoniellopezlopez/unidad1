@@ -1,0 +1,11 @@
+C:\Users\Otoniel\Documents\Programacion\Visual Estudio\bin\Debug\netcoreapp2.2\Visual Estudio.deps.json
+C:\Users\Otoniel\Documents\Programacion\Visual Estudio\bin\Debug\netcoreapp2.2\Visual Estudio.runtimeconfig.json
+C:\Users\Otoniel\Documents\Programacion\Visual Estudio\bin\Debug\netcoreapp2.2\Visual Estudio.runtimeconfig.dev.json
+c:\Users\Otoniel\Documents\Programacion\Visual Estudio\bin\Debug\netcoreapp2.2\Visual Estudio.dll
+c:\Users\Otoniel\Documents\Programacion\Visual Estudio\bin\Debug\netcoreapp2.2\Visual Estudio.pdb
+c:\Users\Otoniel\Documents\Programacion\Visual Estudio\obj\Debug\netcoreapp2.2\Visual Estudio.csprojAssemblyReference.cache
+c:\Users\Otoniel\Documents\Programacion\Visual Estudio\obj\Debug\netcoreapp2.2\Visual Estudio.csproj.CoreCompileInputs.cache
+c:\Users\Otoniel\Documents\Programacion\Visual Estudio\obj\Debug\netcoreapp2.2\Visual Estudio.AssemblyInfoInputs.cache
+c:\Users\Otoniel\Documents\Programacion\Visual Estudio\obj\Debug\netcoreapp2.2\Visual Estudio.AssemblyInfo.cs
+c:\Users\Otoniel\Documents\Programacion\Visual Estudio\obj\Debug\netcoreapp2.2\Visual Estudio.dll
+c:\Users\Otoniel\Documents\Programacion\Visual Estudio\obj\Debug\netcoreapp2.2\Visual Estudio.pdb
