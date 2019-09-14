@@ -14,5 +14,21 @@ namespace Calculadora
             int suma=n1+n2;
             Console.WriteLine(suma);
         }
+
+    }
+
+        class operaciones2
+    {
+        static void Main(string[] args)
+        {
+           division();
+        }
+
+        static void division(){
+            double n1=10, n2=89;
+            double division=n1/n2;
+            Console.WriteLine(division);
+        }
     }
 }
+
