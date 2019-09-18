@@ -29,6 +29,26 @@ namespace Calculadora
             double division=n1/n2;
             Console.WriteLine(division);
         }
+class operaciones3
+    {
+        static void Main(string[] args)
+        {
+           Resta();
+        }
+
+        static void Resta(){
+            int n1=110, n2=75;
+            int suma=n1-n2;
+            Console.WriteLine(Resta);
+        }
+
     }
-}
+
+    }
+
+
+        
+
+
+
 
